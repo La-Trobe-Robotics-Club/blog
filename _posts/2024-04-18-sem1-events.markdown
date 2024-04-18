@@ -1,0 +1,102 @@
+---
+layout: post
+title:  "Upcoming events"
+date:   2024-04-18 00:00:00 +1000
+categories: events
+---
+This page will be updated as locations are confirmed
+# Upcoming events:
+---
+# Week 7
+## Monday 2024-04-22  
+### AGM
+#### 14:00-16:00
+#### [Online](https://discord.gg/gD9DCTBKKu)
+#### Agenda:
+- Advisement of meeting recording
+- Acknowledgement of Country
+- Confirm minutes of last AGM
+- Treasurer's report
+- Any other executive's reports
+- Why constitution isn't being amended
+- Executive Elections
+
+## Wednesday 2024-04-24
+### Ball Balancing Robot Improvement
+#### 14:00-18:00
+#### Bundoora Campus (Room TBC)
+The club will be working on improving the Ball Balancing Robot we use for our stalls.
+
+## Thursday 2024-04-25
+### Market Day Stall
+#### 11:30-13:30
+#### Agora (Bundoora Campus)
+Stall to advertise club using the Ball Balancing Robot
+
+---
+# Week 8
+## Monday 2024-04-29
+### Robotics Competition Volunteering (VEX)
+#### 09:00-16:00
+#### [Camberwell Grammar School](https://maps.app.goo.gl/C4jjG96Anx3hG3zq9)
+**Working With Children Check required: [Get one for free here](https://service.vic.gov.au/services/working-with-children)**
+We as a club will be volunteering at a robotics event.
+We will be helping run the event by:
+- Setting up the fields
+- Counting scores after matches
+- Helping make sure teams are on time for their matches
+- And more!
+
+All volunteers get free food (usually pizza) from event organisers (in2robotics)
+
+## Wednesday 2024-05-01
+### CADDing Micromouse Maze
+#### 14:00-18:00
+#### Bundoora Campus (Room TBC)
+Lestie will be CADDing the Micromouse maze, come by and hang out. This is also an opportunity for you to get a personalised intro to CAD workshop.
+
+## Thursday 2024-05-02
+### Market Day Stall
+#### 11:30-13:30
+#### Agora (Bundoora Campus)
+Stall to advertise club using the Ball Balancing Robot.
+
+---
+# Week 9
+## Monday 2024-05-06
+### Programming (C/Rust) Workshop with Nick
+#### 12:00-18:00
+#### Bundoora Campus (Room TBC)
+Workshop teaching C, with an option to learn Rust and get help with it.
+
+## Thursday 2024-05-09
+### Market Day Stall
+#### 11:30-13:30
+#### Agora (Bundoora Campus)
+Stall to advertise club using the Ball Balancing Robot
+
+---
+# Week 10
+## Monday 2024-05-13
+### Micromouse grant finaliasation (prototype mouse, maze, event money)
+#### 14:00-18:00
+#### Bundoora Campus (Room TBC)
+We will be finalising the expenses list for the Micromouse competition we will be running in semester 2, so we can apply for a grant for them.
+
+---
+# Week 11
+## Wednesday 2024-05-22
+### Study Session (with free pizza)
+#### 14:00-18:00
+#### Bundoora Campus (Room TBC)
+Free pizza!
+
+---
+# Week 12
+## Monday 2024-05-27
+### Study Session (with free food)
+#### 12:00-18:00
+#### Bundoora Campus (Room TBC)
+Free food! (Something different to pizza)
+
+---
