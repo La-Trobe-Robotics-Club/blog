@@ -54,7 +54,7 @@ All volunteers get free food (usually pizza) from event organisers (in2robotics)
 ## Wednesday 2024-05-01
 ### CADDing Micromouse Maze
 #### 14:00-18:00
-#### Bundoora Campus (Room TBC)
+#### HS3-402
 Lestie will be CADDing the Micromouse maze, come by and hang out. This is also an opportunity for you to get a personalised intro to CAD workshop.
 
 ## Thursday 2024-05-02
@@ -68,7 +68,7 @@ Stall to advertise club using the Ball Balancing Robot.
 ## Monday 2024-05-06
 ### Programming (C/Rust) Workshop with Nick
 #### 12:00-18:00
-#### Bundoora Campus (Room TBC)
+#### HS3-402
 Workshop teaching C, with an option to learn Rust and get help with it.
 
 ## Thursday 2024-05-09
@@ -82,7 +82,7 @@ Stall to advertise club using the Ball Balancing Robot
 ## Monday 2024-05-13
 ### Micromouse grant finaliasation (prototype mouse, maze, event money)
 #### 14:00-18:00
-#### Bundoora Campus (Room TBC)
+#### HS3-402
 We will be finalising the expenses list for the Micromouse competition we will be running in semester 2, so we can apply for a grant for them.
 
 ---
