@@ -69,6 +69,36 @@ There will be a safety induction at the start. Anyone not inducted will not be a
 #### 16:00-17:00
 #### Online: https://discord.gg/RVpgzAdvgx
 #### Agenda:
-Will be released at least 1 week before
+1. Acknowledgement of Country
+
+2. Attendance
+
+3. Observers
+
+4. Apologies for Absence
+
+5. Minutes of A.G.M. held on 2024-04-24	
+
+6. President’s Report
+
+7. Secretary’s Report
+
+8. Treasurer’s Report
+
+9. Introduction of Returning Officers
+
+10. Constitution review and changes
+
+11. Election of Office Bearers<br>
+President<br>
+Vice-President<br>
+Secretary<br>
+Treasurer
+
+12. A.O.C.B.<br>
+Any Other Competent Business gives members the chance to raise issues and matters, including those brought to them by the public.
+
+13. Closure
+
 
 ---
