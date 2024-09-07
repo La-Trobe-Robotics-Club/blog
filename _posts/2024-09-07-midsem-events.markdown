@@ -51,11 +51,11 @@ There will be a safety induction at the start. Anyone showing up late will not b
 #### 10:00-15:30
 #### Bundoora, Room TBC
 #### Agenda:
-10:00\: Last Minute Programming, maze assembly
-11:30\: Competition begins
-13:00\: Lunch Break
-13:30\: Competition resumes
-15:30\: Pack up begins
+10:00\: Last Minute Programming, maze assembly<br>
+11:30\: Competition begins<br>
+13:00\: Lunch Break<br>
+13:30\: Competition resumes<br>
+15:30\: Pack up begins<br>
 16:00\: Room booking ends
 
 This is the Micromouse Competition! Come along and compete! Your programming is not done yet? That’s fine! There is still time to program at the event!
