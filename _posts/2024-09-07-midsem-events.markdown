@@ -64,8 +64,8 @@ Competitors will be provided with a basic robot that has a distance sensor, allo
 
 There will be a safety induction at the start. Anyone not inducted will not be allowed to interact with the mice (robots)
 
-## Sunday 2024-09-14
-### Micromouse Competition
+## Sunday 2024-09-15
+### Annual Grand Meeting
 #### 16:00-17:00
 #### Online: https://discord.gg/RVpgzAdvgx
 #### Agenda:
