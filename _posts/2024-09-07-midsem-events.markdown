@@ -68,6 +68,7 @@ There will be a safety induction at the start. Anyone not inducted will not be a
 ### Annual Grand Meeting
 #### 16:00-17:00
 #### Online: https://discord.gg/RVpgzAdvgx
+The La Trobe Robotics Club is having it's Annual Grand Meeting where we vote on the executive and direction of the club for the next year! It is very important we get as many people in as possible, to cater the club to what the students want.
 #### Agenda:
 1. Acknowledgement of Country
 
@@ -99,6 +100,7 @@ Treasurer
 Any Other Competent Business gives members the chance to raise issues and matters, including those brought to them by the public.
 
 13. Closure
+
 
 
 ---
