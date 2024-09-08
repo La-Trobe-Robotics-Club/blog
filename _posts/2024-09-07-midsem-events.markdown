@@ -65,10 +65,10 @@ Competitors will be provided with a basic robot that has a distance sensor, allo
 There will be a safety induction at the start. Anyone not inducted will not be allowed to interact with the mice (robots)
 
 ## Sunday 2024-09-15
-### Annual Grand Meeting
+### Annual General Meeting
 #### 16:00-17:00
 #### Online: https://discord.gg/RVpgzAdvgx
-The La Trobe Robotics Club is having it's Annual Grand Meeting where we vote on the executive and direction of the club for the next year! It is very important we get as many people in as possible, to cater the club to what the students want.
+The La Trobe Robotics Club is having it's Annual General Meeting where we vote on the executive and direction of the club for the next year! It is very important we get as many people in as possible, to cater the club to what the students want.
 #### Agenda:
 1. Acknowledgement of Country
 
