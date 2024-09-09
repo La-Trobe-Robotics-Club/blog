@@ -10,7 +10,7 @@ This page will be updated as locations are confirmed
 # Events at Banyule Nillumbik Tech School
 ## Tuesday 2024-09-10
 ### Ball Balancing Robot Improvement
-#### 10:00-14:00
+#### ~~10:00~~12:00-14:00
 #### Banyule Nillumbik Tech School
 The club will be working on improving the Ball Balancing Robot that you know from our stalls.
 
