@@ -32,37 +32,39 @@ You may also simply use this event as a place to work on your projects.
 
 There will be a safety induction at the start. Anyone showing up late will not be allowed to use any tools until they have been inducted.
 
-## Thursday 2024-09-12
-### Micromouse Programming
-#### 13:30-17:30
-#### Banyule Nillumbik Tech School
-We will be facilitating a space to work on your code for the upcoming Micromouse Competition. If you don’t know where to start we can help :)
+## Cancelled
+## ~~Thursday 2024-09-12~~
+### ~~Micromouse Programming~~
+#### ~~13:30-17:30~~
+#### ~~Banyule Nillumbik Tech School~~
+~~We will be facilitating a space to work on your code for the upcoming Micromouse Competition. If you don’t know where to start we can help :)~~
 
-Attendees will be provided with a basic robot that has a distance sensor, allowing it to solve the maze.
+~~Attendees will be provided with a basic robot that has a distance sensor, allowing it to solve the maze.~~
 
-You may also simply use this event as a place to work on your projects.
+~~You may also simply use this event as a place to work on your projects.~~
 
-There will be a safety induction at the start. Anyone showing up late will not be allowed to use any tools until they have been inducted.
+~~There will be a safety induction at the start. Anyone showing up late will not be allowed to use any tools until they have been inducted.~~
 
 ---
 # Weekend Events
-## Saturday 2024-09-14
-### Micromouse Competition
-#### 10:00-15:30
-#### Bundoora, Room TBC
-#### Agenda:
-10:00\: Last Minute Programming, maze assembly<br>
-11:30\: Competition begins<br>
-13:00\: Lunch Break<br>
-13:30\: Competition resumes<br>
-15:30\: Pack up begins<br>
-16:00\: Room booking ends
+## Cancelled
+## ~~Saturday 2024-09-14~~
+### ~~Micromouse Competition~~
+#### ~~10:00-15:30~~
+#### ~~Bundoora, Room TBC~~
+#### ~~Agenda:~~
+~~10:00\: Last Minute Programming, maze assembly<br>~~
+~~11:30\: Competition begins<br>~~
+~~13:00\: Lunch Break<br>~~
+~~13:30\: Competition resumes<br>~~
+~~15:30\: Pack up begins<br>~~
+~~16:00\: Room booking ends~~
 
-This is the Micromouse Competition! Come along and compete! Your programming is not done yet? That’s fine! There is still time to program at the event!
+~~This is the Micromouse Competition! Come along and compete! Your programming is not done yet? That’s fine! There is still time to program at the event!~~
 
-Competitors will be provided with a basic robot that has a distance sensor, allowing it to solve the maze.
+~~Competitors will be provided with a basic robot that has a distance sensor, allowing it to solve the maze.~~
 
-There will be a safety induction at the start. Anyone not inducted will not be allowed to interact with the mice (robots)
+~~There will be a safety induction at the start. Anyone not inducted will not be allowed to interact with the mice (robots)~~
 
 ## Sunday 2024-09-15
 ### Annual General Meeting
