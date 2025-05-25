@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Free Pizza 2nd of June! + Annual General Meeting"
-date:   2024-05-25 19:00:00 +1000
+date:   2025-05-25 19:00:00 +1000
 categories: events
 ---
 This page will be updated as locations are confirmed
