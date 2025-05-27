@@ -8,7 +8,7 @@ This page will be updated as locations are confirmed
 ## Monday 2025-06-02
 ### Free Pizza & Annual General Meeting
 #### 13:00-14:00
-#### Location: Bundoora Campus (Room TBD)
+#### Location: ED-501 (Bundoora Campus)
 There will be free pizza at the event. Please let us know what pizzas you want here: [https://forms.gle/PCzcTabq8hYN8wKP6](https://forms.gle/PCzcTabq8hYN8wKP6)<br>
 The La Trobe Robotics Club is having it's Annual General Meeting where we vote on the executive and direction of the club for the next year! It is very important we get as many people in as possible, to cater the club to what the students want.
 #### Agenda:
