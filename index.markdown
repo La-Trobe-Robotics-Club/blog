@@ -5,4 +5,5 @@
 layout: home
 ---
 [TODO: move logo to header]: #
-![image tooltip here](/assets/Minilogo.png)
+![Robotics Club Logo](/assets/Minilogo.png)
+[Publicly available files (constitution, etc.)](https://drive.google.com/drive/folders/1mzFzlwSjowT3e_JxF1Qyz72yFc95dBdL?usp=drive_link)
