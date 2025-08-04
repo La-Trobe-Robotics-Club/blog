@@ -49,7 +49,7 @@ Bring your creativity, coding skills, or just enthusiasm—any member can win th
 
 ## 📢 Event Poster
 
-![La Trobe Robotics Club Weekly Hangouts Poster](/assets/images/events/weekly-hangout-poster.png){: .center-image }
+![La Trobe Robotics Club Weekly Hangouts Poster](/assets/images/events/2025-weekly-hangout.png)
 
 Check out the poster above for a quick overview of the event!  
 You can also **share this poster** on social media or with your friends on campus.
